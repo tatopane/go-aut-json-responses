@@ -1,5 +1,5 @@
 {
-  "is_at_risk": is_at_risk, 
-  "wrong_count": alert_count,
-  "result": result
+  "is_at_risk": true, 
+  "wrong_count": 2,
+  "result": "high_risk"
 }
