@@ -1,0 +1,443 @@
+{
+    "total_items": 1,
+    "page_count": 1,
+    "items": [
+        {
+            "landing_id": "zk0h1eps36unyvwsszk0hwb82dxomclb",
+            "token": "zk0h1eps36unyvwsszk0hwb82dxomclb",
+            "response_id": "zk0h1eps36unyvwsszk0hwb82dxomclb",
+            "landed_at": "2020-10-25T14:43:23Z",
+            "submitted_at": "2020-10-25T15:09:44Z",
+            "metadata": {
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36",
+                "platform": "other",
+                "referer": "https://form.typeform.com/to/s1VEDPTL?child_id=1603636730245x222618231842013200&test_id=1603636989447x796816936092565500&typeform-embed=embed-widget&embed-hide-headers=true&embed-opacity=0&typeform-embed-id=gs2vu",
+                "network_id": "41e58f6378",
+                "browser": "default"
+            },
+            "hidden": {
+                "child_id": "1603636730245x222618231842013200",
+                "test_id": "1603636989447x796816936092565500"
+            },
+            "calculated": {
+                "score": 0
+            },
+            "answers": [
+                {
+                    "field": {
+                        "id": "zGgva0dG60co",
+                        "ref": "370",
+                        "type": "short_text"
+                    },
+                    "type": "text",
+                    "text": "2.300"
+                },
+                {
+                    "field": {
+                        "id": "AtuqWKmQQFUn",
+                        "ref": "200",
+                        "type": "multiple_choice"
+                    },
+                    "type": "choice",
+                    "choice": {
+                        "id": "UTHxI5A9XSlw",
+                        "label": "No"
+                    }
+                },
+                {
+                    "field": {
+                        "id": "eUxftHZtlSw1",
+                        "ref": "210",
+                        "type": "yes_no"
+                    },
+                    "type": "boolean",
+                    "boolean": false
+                },
+                {
+                    "field": {
+                        "id": "I6GIGZyu2PNd",
+                        "ref": "220",
+                        "type": "yes_no"
+                    },
+                    "type": "boolean",
+                    "boolean": false
+                },
+                {
+                    "field": {
+                        "id": "r6Q5Pb3MPTEQ",
+                        "ref": "230",
+                        "type": "yes_no"
+                    },
+                    "type": "boolean",
+                    "boolean": false
+                },
+                {
+                    "field": {
+                        "id": "Ch8WyVhOs4UE",
+                        "ref": "250",
+                        "type": "yes_no"
+                    },
+                    "type": "boolean",
+                    "boolean": false
+                },
+                {
+                    "field": {
+                        "id": "ab7lzHaZUvmn",
+                        "ref": "260",
+                        "type": "number"
+                    },
+                    "type": "number",
+                    "number": 0
+                },
+                {
+                    "field": {
+                        "id": "iEXZiW36VfdO",
+                        "ref": "270",
+                        "type": "yes_no"
+                    },
+                    "type": "boolean",
+                    "boolean": true
+                },
+                {
+                    "field": {
+                        "id": "jMFhV2y7w4XB",
+                        "ref": "280",
+                        "type": "multiple_choice"
+                    },
+                    "type": "choice",
+                    "choice": {
+                        "id": "O6n0IZoGCpvJ",
+                        "label": "Su propio cuarto"
+                    }
+                },
+                {
+                    "field": {
+                        "id": "PLLOHRV1JdV3",
+                        "ref": "290",
+                        "type": "multiple_choice"
+                    },
+                    "type": "choice",
+                    "choice": {
+                        "id": "6CTDIe3cqrrt",
+                        "label": "En su propia cuna"
+                    }
+                },
+                {
+                    "field": {
+                        "id": "WvQrpE2S9AyF",
+                        "ref": "300",
+                        "type": "number"
+                    },
+                    "type": "number",
+                    "number": 5
+                },
+                {
+                    "field": {
+                        "id": "aynUAbecji68",
+                        "ref": "310",
+                        "type": "number"
+                    },
+                    "type": "number",
+                    "number": 9
+                },
+                {
+                    "field": {
+                        "id": "Ni93mQndZjar",
+                        "ref": "320",
+                        "type": "number"
+                    },
+                    "type": "number",
+                    "number": 1
+                },
+                {
+                    "field": {
+                        "id": "rQ12790DfcZv",
+                        "ref": "321",
+                        "type": "multiple_choice"
+                    },
+                    "type": "choice",
+                    "choice": {
+                        "id": "0zrLE7z3Ym7G",
+                        "label": "1 a 2 horas"
+                    }
+                },
+                {
+                    "field": {
+                        "id": "6vpqrUZPkcfl",
+                        "ref": "400",
+                        "type": "yes_no"
+                    },
+                    "type": "boolean",
+                    "boolean": false
+                },
+                {
+                    "field": {
+                        "id": "MCh0Bvk3bcXt",
+                        "ref": "340",
+                        "type": "multiple_choice"
+                    },
+                    "type": "choices",
+                    "choices": {
+                        "ids": [
+                            "rVK4iUvpN3ke",
+                            "V5a3tOSSm3v8"
+                        ],
+                        "labels": [
+                            "Madre",
+                            "Padre"
+                        ]
+                    }
+                },
+                {
+                    "field": {
+                        "id": "F9JWhQF57LK7",
+                        "ref": "350",
+                        "type": "multiple_choice"
+                    },
+                    "type": "choices",
+                    "choices": {
+                        "ids": [
+                            "RXqgKVz0ZwPz",
+                            "psDsjoFpXpU9",
+                            "UB7f8chnxAML"
+                        ],
+                        "labels": [
+                            "Madre o Padre",
+                            "Otro familiar (Abuelos, tíos, hermanos, etc)",
+                            "Niñera"
+                        ]
+                    }
+                },
+                {
+                    "field": {
+                        "id": "2wRIxDGsEe7f",
+                        "ref": "130",
+                        "type": "yes_no"
+                    },
+                    "type": "boolean",
+                    "boolean": false
+                },
+                {
+                    "field": {
+                        "id": "F9JpHwEaeD1T",
+                        "ref": "50",
+                        "type": "multiple_choice"
+                    },
+                    "type": "choice",
+                    "choice": {
+                        "id": "wgyFdbfLIhCZ",
+                        "label": "Terciario/Universitario completo"
+                    }
+                },
+                {
+                    "field": {
+                        "id": "98SDWvkUQckq",
+                        "ref": "60",
+                        "type": "multiple_choice"
+                    },
+                    "type": "choice",
+                    "choice": {
+                        "id": "wH7kv7YWwGn3",
+                        "label": "Terciario/Universitario completo"
+                    }
+                },
+                {
+                    "field": {
+                        "id": "e7q8nRnnBNgg",
+                        "ref": "70",
+                        "type": "multiple_choice"
+                    },
+                    "type": "choices",
+                    "choices": {
+                        "ids": [
+                            "q156xxzPc5Hn"
+                        ],
+                        "labels": [
+                            "Empleado / Relación de dependencia"
+                        ]
+                    }
+                },
+                {
+                    "field": {
+                        "id": "5wZ1Fbuc2C9B",
+                        "ref": "80",
+                        "type": "multiple_choice"
+                    },
+                    "type": "choices",
+                    "choices": {
+                        "ids": [
+                            "RztXdYyfEhwB"
+                        ],
+                        "labels": [
+                            "Empleado / Relación de dependencia"
+                        ]
+                    }
+                },
+                {
+                    "field": {
+                        "id": "p8mbtaDpn0pB",
+                        "ref": "100",
+                        "type": "yes_no"
+                    },
+                    "type": "boolean",
+                    "boolean": false
+                },
+                {
+                    "field": {
+                        "id": "noWaAxYGQuny",
+                        "ref": "110",
+                        "type": "yes_no"
+                    },
+                    "type": "boolean",
+                    "boolean": true
+                },
+                {
+                    "field": {
+                        "id": "oSOLl0N9whmx",
+                        "ref": "111",
+                        "type": "short_text"
+                    },
+                    "type": "text",
+                    "text": "Tío paterno de Sofia. Bourneville."
+                },
+                {
+                    "field": {
+                        "id": "JnWIGbxYKVoQ",
+                        "ref": "120",
+                        "type": "yes_no"
+                    },
+                    "type": "boolean",
+                    "boolean": false
+                },
+                {
+                    "field": {
+                        "id": "5T8c4TDTKIXp",
+                        "ref": "360",
+                        "type": "multiple_choice"
+                    },
+                    "type": "choice",
+                    "choice": {
+                        "id": "i93qk4EJe9ne",
+                        "label": "Sí, los meses previos y los primeros meses."
+                    }
+                },
+                {
+                    "field": {
+                        "id": "3iumiUsOmMCz",
+                        "ref": "140",
+                        "type": "multiple_choice"
+                    },
+                    "type": "choice",
+                    "choice": {
+                        "id": "i7F0ZIcSTUvf",
+                        "label": "No"
+                    }
+                },
+                {
+                    "field": {
+                        "id": "Lznh1rJpqYYA",
+                        "ref": "150",
+                        "type": "multiple_choice"
+                    },
+                    "type": "choice",
+                    "choice": {
+                        "id": "QwCxLPIsJzso",
+                        "label": "Sí"
+                    }
+                },
+                {
+                    "field": {
+                        "id": "pYsCRtBD5MBV",
+                        "ref": "151",
+                        "type": "multiple_choice"
+                    },
+                    "type": "choices",
+                    "choices": {
+                        "ids": [
+                            "other"
+                        ],
+                        "other": "colestasis"
+                    }
+                },
+                {
+                    "field": {
+                        "id": "sWIC6LCOpPIW",
+                        "ref": "160",
+                        "type": "multiple_choice"
+                    },
+                    "type": "choice",
+                    "choice": {
+                        "id": "qZB5BAtd8zgY",
+                        "label": "Sí"
+                    }
+                },
+                {
+                    "field": {
+                        "id": "DkTkU154wbos",
+                        "ref": "161",
+                        "type": "short_text"
+                    },
+                    "type": "text",
+                    "text": "Levotiroxina. Soy hipotiroidea (Hashimoto)"
+                },
+                {
+                    "field": {
+                        "id": "O0AbKyPFdQOp",
+                        "ref": "170",
+                        "type": "multiple_choice"
+                    },
+                    "type": "choice",
+                    "choice": {
+                        "id": "V3xOuZTYENHp",
+                        "label": "6 o más"
+                    }
+                },
+                {
+                    "field": {
+                        "id": "GzfGUiOd99Eh",
+                        "ref": "180",
+                        "type": "multiple_choice"
+                    },
+                    "type": "choice",
+                    "choice": {
+                        "id": "Ur5lh3XSaKal",
+                        "label": "No"
+                    }
+                },
+                {
+                    "field": {
+                        "id": "0n5NohmiY1T9",
+                        "ref": "410",
+                        "type": "multiple_choice"
+                    },
+                    "type": "choice",
+                    "choice": {
+                        "id": "tx8V46pudUkQ",
+                        "label": "Parto inducido"
+                    }
+                },
+                {
+                    "field": {
+                        "id": "rRVAU9guIEHW",
+                        "ref": "190",
+                        "type": "multiple_choice"
+                    },
+                    "type": "choice",
+                    "choice": {
+                        "id": "knConweMOmg0",
+                        "label": "No"
+                    }
+                },
+                {
+                    "field": {
+                        "id": "0Tn4IKXXGDDA",
+                        "ref": "330",
+                        "type": "yes_no"
+                    },
+                    "type": "boolean",
+                    "boolean": false
+                }
+            ]
+        }
+    ]
+}
